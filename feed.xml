@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kristofer Gustafsson</title>
+    <description>Website of hobbyist artist Kristofer Gustafsson.
+</description>
+    <link>http://www.kristofergustafsson.com/</link>
+    <atom:link href="http://www.kristofergustafsson.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 04 Mar 2016 14:21:01 +0100</pubDate>
+    <lastBuildDate>Fri, 04 Mar 2016 14:21:01 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Well, this is my first post!</title>
+        <description>&lt;p&gt;Welcome. :) My website is a bit of a mess right now, trying to fix things bit by bit. I have an upcoming post about a collage I made a few weeks ago, it was an interesting experience and I want to write a bit about that.&lt;/p&gt;
+
+&lt;p&gt;Regarding the website I want it to feel more personal than those you mostly find on the web. Well.. Right now it’s kinda barebone but I will get there eventually. Been thinking about adding disqus support as well, but it’s not a priority.&lt;/p&gt;
+
+&lt;p&gt;Anyway, welcome and enjoy. :)&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Mar 2016 18:21:00 +0100</pubDate>
+        <link>http://www.kristofergustafsson.com/2016/03/03/Well-this-is-my-first-post.html</link>
+        <guid isPermaLink="true">http://www.kristofergustafsson.com/2016/03/03/Well-this-is-my-first-post.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
