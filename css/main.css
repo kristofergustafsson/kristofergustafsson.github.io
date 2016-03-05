@@ -149,7 +149,7 @@ div#line {
   background-color: black;
   height: 10px; }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 720px) {
   div#one {
     width: auto;
     height: auto;
@@ -178,13 +178,13 @@ div.album-images img {
 
 .social-info {
   height: 20px; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 720px) {
     .social-info {
       display: none; } }
 
 .social-content {
   text-align: right; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 720px) {
     .social-content {
       display: none; } }
 
@@ -218,7 +218,7 @@ div.album-images img {
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 720px) {
     .site-nav {
       position: fixed;
       top: 8px;
@@ -301,7 +301,7 @@ div.album-images img {
   .footer-col-3 {
     width: -webkit-calc(100% - (30px / 2));
     width: calc(100% - (30px / 2)); } }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 720px) {
   .footer-col {
     float: none;
     width: -webkit-calc(100% - (30px / 2));
