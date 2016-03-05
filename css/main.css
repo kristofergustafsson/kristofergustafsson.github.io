@@ -144,11 +144,49 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
+div#line {
+  width: 100%;
+  background-color: black;
+  height: 10px; }
+
+@media screen and (max-width: 600px) {
+  div#one {
+    width: auto;
+    height: auto;
+    top: 0;
+    left: 0;
+    position: fixed;
+    background: white;
+    border-bottom-style: dashed;
+    border-width: 1px;
+    float: left;
+    border-color: grey;
+    padding-right: 55px;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-bottom: 10px; } }
+div.album-images {
+  max-width: 100%;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+
+div.album-images img {
+  padding: 20px;
+  height: auto; }
+
 .social-info {
   height: 20px; }
+  @media screen and (max-width: 600px) {
+    .social-info {
+      display: none; } }
 
 .social-content {
   text-align: right; }
+  @media screen and (max-width: 600px) {
+    .social-content {
+      display: none; } }
 
 /**
  * Site header
@@ -182,12 +220,13 @@ pre {
       margin-right: 20px; }
   @media screen and (max-width: 600px) {
     .site-nav {
-      position: absolute;
-      top: 9px;
-      right: 15px;
+      position: fixed;
+      top: 8px;
+      right: 0px;
+      right: 10px;
       background-color: #fdfdfd;
       border: 1px solid #e8e8e8;
-      border-radius: 5px;
+      border-radius: 2px;
       text-align: right; }
       .site-nav .menu-icon {
         display: block;
@@ -195,7 +234,7 @@ pre {
         width: 36px;
         height: 26px;
         line-height: 0;
-        padding-top: 10px;
+        padding-top: 8px;
         text-align: center; }
         .site-nav .menu-icon > svg {
           width: 18px;

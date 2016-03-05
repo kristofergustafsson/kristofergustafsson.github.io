@@ -1,11 +1,14 @@
 #album-description {}
-#album-images {}
+#album-images {
+}
 #album-contents {
 	width: 100%;
 }
 
+
+
 .album-image {
-	max-width: 20%;
+	max-width: 80%;
 }
 
 .image {
@@ -34,7 +37,6 @@ a.nav {
 	position: relative;
 	float: right;
 }
-
 
 .image-page {
 	text-align: center;
